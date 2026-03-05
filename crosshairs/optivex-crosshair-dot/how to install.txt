@@ -1,0 +1,9 @@
+right click TF2 in steam library,
+go properties, 
+local files, 
+browse local files, 
+go into the tf folder 
+then into the custom folder
+copy the optivex-crosshair folder into the custom folder
+launch the game and enter the console commands: cl_crosshair_file "" and cl_crosshair_scale 4
+you will probs need to use a number higher than 4 to get the right size
