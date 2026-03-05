@@ -1,0 +1,5 @@
+hudanimations_manifest
+{
+  // Higher on the list takes priority.
+	"file"		"scripts/hudanimations_stabby.txt"
+}
